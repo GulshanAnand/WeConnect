@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1011589898902",
+    "project_id": "weconnect-c6178",
+    "storage_bucket": "weconnect-c6178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011589898902:android:eb46a2f3311d4552af18b7",
+        "android_client_info": {
+          "package_name": "com.robot.weconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011589898902-8uv9tuqpj732a0p5p69l7kckseb7c7f8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.robot.weconnect",
+            "certificate_hash": "7bdd884756ab95e5c0611dfe3756ea13d6c7c847"
+          }
+        },
+        {
+          "client_id": "1011589898902-aeps72anrhjjgmuluuaccn9n9d0oas26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT-XHCrLZgU_zCqARYzIkx9TOxxM0_UJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011589898902-aeps72anrhjjgmuluuaccn9n9d0oas26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
