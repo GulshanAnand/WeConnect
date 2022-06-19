@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">WeConnect</string>
+    <string name="sign_in_title">Sign in to continue</string>
+    <string name="sign_up_title">Sign Up</string>
+    <string name="enter_email_hint">Email address</string>
+    <string name="enter_password_hint">Password</string>
+    <string name="enter_username_hint">Username</string>
+    <string name="no_account_label">Don\'t have an account?</string>
+    <string name="have_account_label">Already have an account?</string>
+    <string name="signin_btn_label">SIGN IN</string>
+    <string name="signup_btn_label">SIGN UP</string>
+    <string name="or_connect_with_label">or connect with</string>
+    <string name="or_label">or</string>
+    <string name="google_btn_label">GOOGLE</string>
+    <string name="facebook_btn_label">FACEBOOK</string>
 </resources>
