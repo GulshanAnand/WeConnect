@@ -63,6 +63,7 @@
             android:singleLine="true"/>
 
         <TextView
+            android:id="@+id/open_sign_up"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
@@ -101,7 +102,7 @@
                 android:layout_centerHorizontal="true"
                 android:background="?android:attr/colorBackground"
                 android:padding="2dp"
-                android:text="@string/or_connect_with_label" />
+                android:text="@string/or_continue_with_label" />
         </RelativeLayout>
 
         <Button

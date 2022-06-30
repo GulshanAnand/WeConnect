@@ -28,7 +28,7 @@
             android:src="@drawable/ic_we_connect_logo"/>
 
         <EditText
-            android:id="@+id/user1"
+            android:id="@+id/user2"
             android:layout_width="match_parent"
             android:layout_height="47dp"
             android:textColor="?android:textColorPrimary"
@@ -45,7 +45,7 @@
             android:singleLine="true"/>
 
         <EditText
-            android:id="@+id/email1"
+            android:id="@+id/email2"
             android:layout_width="match_parent"
             android:layout_height="47dp"
             android:textColor="?android:textColorPrimary"
@@ -62,7 +62,7 @@
             android:singleLine="true"/>
 
         <EditText
-            android:id="@+id/pass1"
+            android:id="@+id/pass2"
             android:layout_width="match_parent"
             android:layout_height="47dp"
             android:textColor="?android:textColorPrimary"
@@ -80,6 +80,7 @@
             android:singleLine="true"/>
 
         <TextView
+            android:id="@+id/open_sign_in"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
@@ -90,7 +91,7 @@
             android:text="@string/have_account_label" />
 
         <Button
-            android:id="@+id/sign_in"
+            android:id="@+id/sign_up"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
